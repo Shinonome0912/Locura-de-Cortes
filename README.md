@@ -40,7 +40,7 @@ Porque aprender programación no solamente consiste en memorizar sintaxis.
 
 A veces también consiste en ejecutar:
 
-```python
+python
 print(print())
 
 y quedarse mirando la pantalla durante cinco minutos preguntándose qué demonios pasó.
